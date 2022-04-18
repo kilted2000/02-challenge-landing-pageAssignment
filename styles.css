@@ -1,3 +1,4 @@
+/*I know this isn't the best design, but to be honest I ran out of time*/
 body{
     margin: 0;
     background-color: navy;
@@ -75,6 +76,7 @@ footer{
     display: flex;
     padding-left: 50px;
     padding-right: 50px;
+    text-indent: 20px;
     
 }
 .mens{
@@ -87,7 +89,7 @@ footer{
     background-image: url(w6nations.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: cadetblue;
+    color: lightskyblue;
     margin: 0;
 }
 
@@ -120,6 +122,7 @@ button:hover{
     background-repeat: no-repeat;
     background-size: cover;
     color: cornflowerblue;
+    text-indent: 20px;
     margin: 0;
     padding: 50px;
 }
